@@ -1,0 +1,6 @@
+body {
+  font-family: monospace;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
